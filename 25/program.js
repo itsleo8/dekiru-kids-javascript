@@ -351,7 +351,7 @@ function shitaidou() {
     if (!kekka) {
       document.getElementById('gameover').play();
 
-      alert('げーむおーばー');
+      alert('ゲームオーバー また挑戦してね。');
 
       jikkou = false;
     }
